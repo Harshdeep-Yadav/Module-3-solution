@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(204, 204, 204);
+    font-family: 'Oxygen', sans-serif;
+}
+.container{
+    background-color:whitesmoke;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 55px;
+    padding: 45px;
+
+}
+#sec{
+    margin: 12px;
+    padding: 25px;
+}
+
+#menu h1{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+    margin: 14px;
+}
+
+.container h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
